@@ -1,0 +1,131 @@
+ body {
+  			background-color: gray;
+  		}
+ .body {
+  			margin-right: 30%;
+  			margin-left: 30%;
+  			margin-top: 2%;
+  			margin-bottom: 2%;
+  			background-color: #ecf0f1;
+  		}
+.myclass {
+  			color: #00F;
+  		}
+ * {
+ 	list-style-type: none;
+ 	}
+header {
+  			color: white;
+  			position: relative;
+  			background-color: rgb(46,204,113);
+  			height: 250px;
+  			top: 0;
+  			left: 0;
+
+  		}
+.mainheader {
+  			position: relative;
+  			top:200px;
+  			left:0;
+  		}
+nav {
+  			color: white;
+  			background-color: rgb(52,73,94);
+  			text-align: right;
+  			text-decoration: none;
+  			padding: 10px;
+  		}
+nav a {
+	color: white;
+	padding: 15px;
+	height: 7px;
+} 
+h3 {
+	position: relative;
+	left: 15px;
+	top: 15px;
+}
+.first-article {
+	padding: 40px;
+}
+h4 {
+	padding: 0px 20px;
+	margin-right: 10px;
+	margin-left: 10px;
+	border-bottom: solid 1px black;
+}
+.sectiononetitlep  {
+	margin-top: -25px;
+	margin-right: 30px;
+	margin-left: 30px;
+}
+table {
+	padding: 0px 10px;
+}
+
+table, tr, td {	
+	padding: 5px;	
+	margin: 15px;
+	border: solid 1px black;
+}
+thead {
+	background-color: silver;
+}
+button {
+	background-color: rgb(52,152,219);
+	color: white;s
+}
+.posttablep {
+	padding: 5px 40px 15px 40px;
+}
+.greybox {
+	background-color: silver; 
+	padding: 25px 30px;
+	margin: 5px 20px;
+	text-align: center;
+}
+.posttablep2 {
+	padding: 5px 40px 5px 40px;
+}
+.posttablep3 {
+	padding: 5px 40px 5px 40px;	
+}
+span a {
+	color: gray;
+	text-decoration: none;
+}
+ .info {
+ 	padding: 0px 100px 0px 0px;	
+ }
+ .info2 {
+ 	padding: 0px 25px 0px 150px;	
+ }
+img {
+ 	height: 50px;
+ 	width: 50px;
+ }
+.verticalLine {
+    border-left: thin solid black;
+}
+.floater {
+ position: absolute;
+ top: -20px;
+ right: -235px;
+ height: 250px;
+ width: 220px;
+ background-color: #ecf0f1; 
+}
+ * {
+ 	list-style-type: none;
+ 	}
+ .floaterhead {
+ 	border: none;
+ }
+
+
+.innerbody {
+ position: relative;
+}
+
+
+
